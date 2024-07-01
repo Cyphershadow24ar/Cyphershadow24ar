@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyphershadow24ar
+- 👋 Hi, I’m Cyphershadow24ar
 - 👀 I’m interested in AI & Machine Learning
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on AI & Machine Learning Projects
