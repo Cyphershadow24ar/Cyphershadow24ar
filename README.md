@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI & Machine Learning Projects
 - 📫 How to reach me through My Linkedln or Gmail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a sport enthusiast.
+- ⚡ Fun fact: I am a sports enthusiast as well!
 
 <!---
 Cyphershadow24ar/Cyphershadow24ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
