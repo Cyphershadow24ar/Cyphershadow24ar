@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Some mini project for college related work.**
 
-- 🌱 I’m currently learning **Flutter & Flutter Flow**
-
 - 📫 How to reach me **aniketraj0224@gmail.com**
 
 - ⚡ Fun fact **I sleep a lot.**
