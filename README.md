@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Raj</h1>
-<h3 align="center">A passionate Computer Science AI/ML Student from India</h3>
+<h3 align="center">A passionate AI/ML Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyphershadow24ar&label=Profile%20views&color=0e75b6&style=flat" alt="cyphershadow24ar" /> </p>
 
