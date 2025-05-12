@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Some mini project for college related work.**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **3D Designing Blender**
 
 - 📫 How to reach me **aniketraj0224@gmail.com**
 
