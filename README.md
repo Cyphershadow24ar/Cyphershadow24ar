@@ -1,34 +1,72 @@
-<h1 align="center">Hi 👋, I'm Aniket Raj</h1>
-<h3 align="center">A passionate AI/ML Student from India</h3>
+# 👋 Hi there, I'm Aniket Raj
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyphershadow24ar&label=Profile%20views&color=0e75b6&style=flat" alt="cyphershadow24ar" /> </p>
+🎓 I'm an undergraduate Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**.  
+💡 I love building things that matter — from backend systems and APIs to intelligent ML-powered applications.  
+🚀 Currently working on leveling up as a **Full-Stack + Backend + MLOps Developer**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyphershadow24ar" alt="cyphershadow24ar" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Some mini project for college related work.**
+## 🚧 Currently Building
 
-- 🌱 I’m currently learning **3D Designing Blender**
+- 🧠 A full-stack **Notes App** using React + FastAPI + PostgreSQL  
+- 🏥 A **Hospital Management System** (Java & Python versions)  
+- 📦 Learning **Docker**, **CI/CD**, and how to deploy ML models in production
 
-- 📫 How to reach me **aniketraj0224@gmail.com**
+---
 
-- ⚡ Fun fact **I sleep a lot and work too much.**
+## 🔧 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-raj-b0ab642a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-raj-b0ab642a8/" height="30" width="40" /></a>
-<a href="https://kaggle.com/aniketraj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniketraj24" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/aniket_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/aniket_24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aniketraj0224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aniketraj0224" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@aniketraj0224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aniketraj0224/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aniketr2ax8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aniketr2ax8/" height="30" width="40" /></a>
-</p>
+**Languages**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Frameworks & Tools**:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyphershadow24ar&show_icons=true&locale=en&layout=compact" alt="cyphershadow24ar" /></p>
+**Other Tools**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyphershadow24ar&show_icons=true&locale=en" alt="cyphershadow24ar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyphershadow24ar&" alt="cyphershadow24ar" /></p>
+## 📈 Learning Goals (2025)
+
+- ✅ Build & deploy multiple **full-stack apps**
+- ✅ Master **MLOps pipelines** using Docker, MLflow, and cloud
+- ✅ Prepare for software & ML engineering **interviews**
+- ✅ Gain experience with **System Design & Product Thinking**
+- ✅ Contribute to open source or a live product
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏥 Hospital Management System | End-to-end system for managing patients, doctors, appointments, billing | Java, JDBC, MySQL |
+| 📝 Notes App (WIP) | Full-stack CRUD Notes app with React UI + FastAPI backend | React, FastAPI, PostgreSQL |
+| 🛒 E-Commerce Mini App | Prototype with login, product listing, and cart functionality | HTML, CSS, JS |
+
+🔗 More on [my GitHub repos](https://github.com/Cyphershadow24ar)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aniket-raj-your-profile) *(← update your URL)*
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
+- 📬 Email: your.email@example.com *(optional)*
+
+---
+
+> ⚡ "Consistency beats talent when talent doesn't show up." – I'm here every day, trying to get 1% better.
+
