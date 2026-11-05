@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently Exploring *new things and domains*<br><br>- 🌱 I’m currently preparing for *placements.*<br><br>- 📫 How to reach me *aniketraj0224@gmail.com*<br><br>- ⚡ Fun fact *I sleep a lot and when time demand I love being Workaholic too.*
+ 🔭 I’m currently Exploring *new domains*<br><br>- 🌱 I’m currently preparing for *placements.*<br><br>- 📫 How to reach me *aniketraj0224@gmail.com*<br><br>- ⚡ Fun fact *I sleep a lot and when time demand I love being Workaholic too.*
 
 
 ## 🌐 Socials:
